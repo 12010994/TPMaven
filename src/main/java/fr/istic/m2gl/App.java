@@ -4,7 +4,12 @@ package fr.istic.m2gl;
 /**
  * Hello world!.
  */
-public class App {
+public final class App {
+	
+	/**
+	 * Instantiates a new app.
+	 */
+	private App() { };
 	
     /**
      * The main method.
