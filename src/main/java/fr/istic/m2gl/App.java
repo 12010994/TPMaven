@@ -10,7 +10,7 @@ public final class App {
 	 * Instantiates a new app.
 	 */
 	private App() { };
-	
+	int test;
     /**
      * The main method.
      *
