@@ -1,4 +1,4 @@
-package istic.m2gl;
+package fr.istic.m2gl;
 
 // TODO: Auto-generated Javadoc
 /**
